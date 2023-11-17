@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Bungee+Spice&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bungee+Spice&family=Nabla&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Sedgwick+Ave+Display&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Sedgwick+Ave+Display&family=Yuji+Boku&display=swap');
+body {
+    background: linear-gradient(to right, #b81fa3, #1c166b);
+}
+
+.imagem {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 10p0x; /* Isso garante que a altura da tela seja totalmente coberta */
+}
+
+.titulo{
+    font-family: 'Bungee Spice', sans-serif;
+    text-align: center;
+}
+.titulo2{
+    font-family: 'Sedgwick Ave Display', cursive;
+    text-align: center;
+}
+.titulo3{
+    font-family: 'Yuji Boku', serif;
+    text-align: center;
+}
+
